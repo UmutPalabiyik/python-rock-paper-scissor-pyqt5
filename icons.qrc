@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>gameico.png</file>
+    <file>playerWinPic.png</file>
+    <file>computerWinPic.png</file>
+    <file>titleOfGame - Kopya.png</file>
+    <file>titleOfGame.png</file>
+    <file>versus-vs-screen-background-torn-paper-style_1017-25143.jpg</file>
+    <file>justPaper.png</file>
+    <file>justRock.png</file>
+    <file>justScissors.png</file>
+    <file>paper.png</file>
+    <file>rock.png</file>
+    <file>scissors.png</file>
+  </qresource>
+</RCC>
